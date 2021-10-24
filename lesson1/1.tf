@@ -12,4 +12,5 @@ resource "aws_instance" "ubuntu-1" {
     Name  = "web-servers"
     Owner = "me"
   }
+
 }
